@@ -4,8 +4,10 @@ export class ExcelModel {
   dateOfBirth = "";
   gender = "";
   expirationDate = "";
-  LastName = "";
+  lastName = "";
   firstName = "";
   middleName = "";
   paxInPNR = 0;
+  groupsEntry = "";
+  ctoEntry = "";
 }
